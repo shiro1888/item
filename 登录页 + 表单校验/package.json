@@ -1,0 +1,9 @@
+{
+  "name": "item-login-practice",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm dlx serve . -l 4173",
+    "start": "pnpm dlx serve . -l 4173"
+  }
+}
